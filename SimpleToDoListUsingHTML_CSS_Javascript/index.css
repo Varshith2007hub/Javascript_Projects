@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ToDoList{
+    height: 400px;
+    width: 400px;
+    border: 5px solid black;
+}
+#Adding_New_Content{
+    padding: 5px;
+}
+button{
+    background-color: green;
+}
+#second{
+    border: 1px solid grey;
+    padding: 5px;
+}
+#remove{
+    background-color: red;
+    height: 30px;
+    width: 100px;
+}
